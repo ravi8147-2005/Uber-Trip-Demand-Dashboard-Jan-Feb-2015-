@@ -74,7 +74,3 @@ This project combines Python and Power BI to analyze Uber trip data from January
 
 
 ---
-
-## 🏷️ Tags
-
-`Power BI` `Python` `Uber` `NYC` `Dashboard` `Data Analysis` `Time Series` `AI` `Q&A`
